@@ -1,4 +1,4 @@
-![Plaited Labs: where design systems become generative systems](github_banner_v1.svg)
+![Plaited Labs: where design systems become generative systems](github_banner.svg)
 
   We believe AI should generate UIs that are correct by construction—not through endless prompt engineering, but through behavioral constraints that encode your design decisions.
 
