@@ -1,6 +1,4 @@
-  # Plaited
-
-  **Where design systems become generative systems.**
+  # Where design systems become generative systems
 
   We believe AI should generate UIs that are correct by construction—not through endless prompt engineering, but through behavioral constraints that encode your design decisions.
 
