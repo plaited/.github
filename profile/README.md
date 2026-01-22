@@ -10,8 +10,8 @@
   **[development-skills](https://github.com/plaited/development-skills)** equips AI coding agents with TypeScript LSP integration (type info, symbol search, reference finding), TSDoc
   documentation standards, cross-agent rule scaffolding, and validation tooling to verify project skills against the AgentSkills specification.
 
-  **[acp-harness](https://github.com/plaited/acp-harness)** combines CLI tooling with agent skills for evaluation workflows. Capture trajectories, run trials, and use agentic assistance to
-  calibrate failures, summarize results, and build scoring pipelines.
+  **[agent-eval-harness](https://github.com/plaited/agent-eval-harness)** is a CLI tool for evaluating AI agents by capturing execution trajectories. Run pass@k evaluations with customizable
+  grading functions, schema-driven adapters, and Unix-style composable pipelines.
 
   **[skills-installer](https://github.com/plaited/skills-installer)** distributes Plaited skills to projects using agents that support the AgentSkills specification.
 
