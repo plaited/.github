@@ -12,9 +12,7 @@
 
   **[agent-eval-harness](https://github.com/plaited/agent-eval-harness)** is a CLI tool for evaluating AI agents by capturing execution trajectories. Run pass@k evaluations with customizable
   grading functions, schema-driven adapters, and Unix-style composable pipelines.
-
-  **[skills-installer](https://github.com/plaited/skills-installer)** distributes Plaited skills to projects using agents that support the AgentSkills specification.
-
+  
   ### Get Started
 
   ```bash
