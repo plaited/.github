@@ -1,22 +1,24 @@
-![Plaited Labs: where design systems become generative systems](github_banner.svg)
+![Plaited sovereign agent node framework: sovereign nodes, A2A modnets, generative UI, and behavioral runtime provenance](github_banner.svg)
 
-  We believe AI should generate UIs that are correct by construction—not through endless prompt engineering, but through behavioral constraints that encode your design decisions.
+Plaited builds **sovereign agent nodes**.
 
-  ### Our Stack
+Each node is owned by one user or organization, keeps its modules and memory local, records its own provenance, and collaborates with other nodes through A2A instead of a central platform.
 
-  **[plaited](https://github.com/plaited/plaited)** is a neuro-symbolic framework for AI-assisted design. Our agents, skills, and tooling train a world model that generates interfaces
-  grounded in your design system.
+### Layer 1: What Plaited Is Building
 
-  **[development-skills](https://github.com/plaited/development-skills)** equips AI coding agents with TypeScript LSP integration (type info, symbol search, reference finding), TSDoc
-  documentation standards, cross-agent rule scaffolding, and validation tooling to verify project skills against the AgentSkills specification.
+- **Sovereign nodes** with local modules, constitutions, memory, and provenance
+- **Modnets** where nodes exchange tasks, services, artifacts, and controlled data
+- **Native-model direction** toward end-to-end module and UI generation inside Plaited's own runtime ontology
 
-  **[agent-eval-harness](https://github.com/plaited/agent-eval-harness)** is a CLI tool for evaluating AI agents by capturing execution trajectories. Run pass@k evaluations with customizable
-  grading functions, schema-driven adapters, and Unix-style composable pipelines.
-  
-  ### Get Started
+### Layer 2: How Plaited Works
 
-  ```bash
-  bun add plaited
+Plaited provides:
 
-  https://github.com/plaited/plaited · https://agentskills.io/
-  ```
+- a behavioral-programming-first runtime
+- an agent loop with governance and evaluation seams
+- generative UI primitives and controller protocols
+- A2A and modnet building blocks
+- git plus `.memory/` provenance for node-local work
+- dev autoresearch infrastructure for improving the framework itself
+
+**Repository:** [plaited/plaited](https://github.com/plaited/plaited)
