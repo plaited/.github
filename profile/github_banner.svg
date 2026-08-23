@@ -76,11 +76,11 @@
   
   <!-- Main headline -->
   <text x="330" y="155" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">Sovereign agent nodes</text>
-  <text x="330" y="215" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="42" font-weight="700" fill="url(#textGrad)">for A2A modnets</text>
+  <text x="330" y="215" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="42" font-weight="700" fill="url(#textGrad)">over ATProto</text>
   
   <!-- Separator -->
   <rect x="330" y="240" width="600" height="1" fill="url(#lineGrad)"/>
   
   <!-- Tag line -->
-  <text x="330" y="285" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="600" fill="#FFFFFF">Behavioral runtime, generative UI, memory, and provenance</text>
+  <text x="330" y="285" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="600" fill="#FFFFFF">Behavioral Agents, generative UI, memory, and provenance</text>
 </svg>
